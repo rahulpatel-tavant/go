@@ -1,1 +1,1 @@
-# go
+# Exercism for Golang
